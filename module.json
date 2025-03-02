@@ -1,0 +1,116 @@
+{
+  "id": "mia-campagna",
+  "title": "Mia Campagna",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "italian-compendium-5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "translation-dnd5e-it",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "italian-compendium-5e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pixelmaster",
+      "email": "dinoresin93@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "pg",
+      "label": "PG",
+      "path": "packs/pg",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "png",
+      "label": "PNG",
+      "path": "packs/png",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "scene",
+      "label": "Scene",
+      "path": "packs/scene",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "musiche",
+      "label": "Musiche",
+      "path": "packs/musiche",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "oggetti-quest",
+      "label": "Oggetti Quest",
+      "path": "packs/oggetti-quest",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "storia",
+      "label": "Storia",
+      "path": "packs/storia",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
