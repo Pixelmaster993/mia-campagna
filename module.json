@@ -22,6 +22,21 @@
         "id": "italian-compendium-5e",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "mobile-improvements",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-quest-log",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "systems": [
@@ -45,72 +60,66 @@
       "label": "PG",
       "path": "packs/pg",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "png",
       "label": "PNG",
       "path": "packs/png",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "scene",
       "label": "Scene",
       "path": "packs/scene",
       "type": "Scene",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "musiche",
       "label": "Musiche",
       "path": "packs/musiche",
       "type": "Playlist",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "oggetti-quest",
       "label": "Oggetti Quest",
       "path": "packs/oggetti-quest",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "storia",
       "label": "Storia",
       "path": "packs/storia",
       "type": "JournalEntry",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
   ]
 }
