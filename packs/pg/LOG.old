@@ -1,23 +1,8 @@
-2025/03/02-19:18:49.477 d18 Recovering log #33
-2025/03/02-19:18:49.477 d18 Level-0 table #35: started
-2025/03/02-19:18:49.484 d18 Level-0 table #35: 2679 bytes OK
-2025/03/02-19:18:49.487 d18 Delete type=0 #33
-2025/03/02-19:18:49.487 d18 Delete type=3 #32
-2025/03/02-19:24:03.874 5438 Level-0 table #38: started
-2025/03/02-19:24:03.874 5438 Level-0 table #38: 0 bytes OK
-2025/03/02-19:24:03.876 5438 Delete type=0 #36
-2025/03/02-19:24:03.876 5438 Manual compaction at level-0 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at '!actors!1U5LeOkUf0zOwr3d' @ 21 : 1
-2025/03/02-19:24:03.876 5438 Compacting 1@0 + 0@1 files
-2025/03/02-19:24:03.882 5438 Generated table #39@0: 1 keys, 2679 bytes
-2025/03/02-19:24:03.882 5438 Compacted 1@0 + 0@1 files => 2679 bytes
-2025/03/02-19:24:03.884 5438 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/02-19:24:03.884 5438 Delete type=2 #35
-2025/03/02-19:24:03.891 5438 Manual compaction at level-0 from '!actors!1U5LeOkUf0zOwr3d' @ 21 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
-2025/03/02-19:24:03.891 5438 Manual compaction at level-1 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at '!actors!1U5LeOkUf0zOwr3d' @ 21 : 1
-2025/03/02-19:24:03.891 5438 Compacting 1@1 + 1@2 files
-2025/03/02-19:24:03.896 5438 Generated table #40@1: 4 keys, 10228 bytes
-2025/03/02-19:24:03.896 5438 Compacted 1@1 + 1@2 files => 10228 bytes
-2025/03/02-19:24:03.898 5438 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/02-19:24:03.898 5438 Delete type=2 #31
-2025/03/02-19:24:03.899 5438 Delete type=2 #39
-2025/03/02-19:24:03.905 5438 Manual compaction at level-1 from '!actors!1U5LeOkUf0zOwr3d' @ 21 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
+2025/03/03-11:29:16.115 ef4 Recovering log #49
+2025/03/03-11:29:16.130 ef4 Delete type=0 #49
+2025/03/03-11:29:16.133 ef4 Delete type=3 #47
+2025/03/03-11:29:50.141 1c50 Level-0 table #54: started
+2025/03/03-11:29:50.141 1c50 Level-0 table #54: 0 bytes OK
+2025/03/03-11:29:50.146 1c50 Delete type=0 #52
+2025/03/03-11:29:50.155 1c50 Manual compaction at level-0 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
+2025/03/03-11:29:50.156 1c50 Manual compaction at level-1 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
