@@ -37,6 +37,16 @@
         "id": "foundryvtt-simple-calendar",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "lootsheet-simple",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "systems": [
