@@ -1,8 +1,15 @@
-2025/03/04-14:34:40.682 6b08 Recovering log #71
-2025/03/04-14:34:40.697 6b08 Delete type=0 #71
-2025/03/04-14:34:40.701 6b08 Delete type=3 #69
-2025/03/04-15:07:20.916 1d74 Level-0 table #76: started
-2025/03/04-15:07:20.916 1d74 Level-0 table #76: 0 bytes OK
-2025/03/04-15:07:20.921 1d74 Delete type=0 #74
-2025/03/04-15:07:20.937 1d74 Manual compaction at level-0 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
-2025/03/04-15:07:20.959 1d74 Manual compaction at level-1 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors!uxcxLtNGfvjudLT3' @ 0 : 0; will stop at (end)
+2025/03/05-11:11:21.402 4b60 Recovering log #79
+2025/03/05-11:11:21.417 4b60 Delete type=0 #79
+2025/03/05-11:11:21.420 4b60 Delete type=3 #77
+2025/03/05-12:37:45.067 46dc Level-0 table #84: started
+2025/03/05-12:37:45.078 46dc Level-0 table #84: 344929 bytes OK
+2025/03/05-12:37:45.082 46dc Delete type=0 #82
+2025/03/05-12:37:45.086 46dc Manual compaction at level-0 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors.items.effects!RTQpdJwcK3TNl8mN.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 0 : 0; will stop at (end)
+2025/03/05-12:37:45.086 46dc Manual compaction at level-1 from '!actors!1U5LeOkUf0zOwr3d' @ 72057594037927935 : 1 .. '!actors.items.effects!RTQpdJwcK3TNl8mN.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 0 : 0; will stop at '!actors.items.effects!RTQpdJwcK3TNl8mN.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 39 : 1
+2025/03/05-12:37:45.086 46dc Compacting 1@1 + 1@2 files
+2025/03/05-12:37:45.098 46dc Generated table #85@1: 56 keys, 98032 bytes
+2025/03/05-12:37:45.098 46dc Compacted 1@1 + 1@2 files => 98032 bytes
+2025/03/05-12:37:45.103 46dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/05-12:37:45.103 46dc Delete type=2 #40
+2025/03/05-12:37:45.106 46dc Delete type=2 #84
+2025/03/05-12:37:45.130 46dc Manual compaction at level-1 from '!actors.items.effects!RTQpdJwcK3TNl8mN.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 39 : 1 .. '!actors.items.effects!RTQpdJwcK3TNl8mN.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 0 : 0; will stop at (end)
