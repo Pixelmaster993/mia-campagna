@@ -1,17 +1,8 @@
-2025/03/14-14:02:29.113 16cc Recovering log #181
-2025/03/14-14:02:29.113 16cc Level-0 table #183: started
-2025/03/14-14:02:29.121 16cc Level-0 table #183: 52813 bytes OK
-2025/03/14-14:02:29.136 16cc Delete type=0 #181
-2025/03/14-14:02:29.139 16cc Delete type=3 #180
-2025/03/14-14:58:53.365 255c Moved #183 to level-1 52813 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2025/03/14-19:17:28.533 255c Compacting 1@1 + 1@2 files
-2025/03/14-19:17:28.544 255c Generated table #185@1: 58 keys, 91788 bytes
-2025/03/14-19:17:28.544 255c Compacted 1@1 + 1@2 files => 91788 bytes
-2025/03/14-19:17:28.548 255c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/14-19:17:28.548 255c Delete type=2 #141
-2025/03/14-19:17:28.553 255c Delete type=2 #183
-2025/03/14-19:18:57.122 255c Level-0 table #187: started
-2025/03/14-19:18:57.122 255c Level-0 table #187: 0 bytes OK
-2025/03/14-19:18:57.125 255c Delete type=0 #184
-2025/03/14-19:18:57.142 255c Manual compaction at level-0 from '!actors!1pTwTwidXEdN07eO' @ 72057594037927935 : 1 .. '!folders!FAVI6zwkDdL3TuBZ' @ 0 : 0; will stop at (end)
-2025/03/14-19:18:57.142 255c Manual compaction at level-1 from '!actors!1pTwTwidXEdN07eO' @ 72057594037927935 : 1 .. '!folders!FAVI6zwkDdL3TuBZ' @ 0 : 0; will stop at (end)
+2025/03/17-14:27:50.036 5b90 Recovering log #190
+2025/03/17-14:27:50.085 5b90 Delete type=0 #190
+2025/03/17-14:27:50.094 5b90 Delete type=3 #188
+2025/03/17-15:50:48.166 6018 Level-0 table #195: started
+2025/03/17-15:50:48.167 6018 Level-0 table #195: 0 bytes OK
+2025/03/17-15:50:48.180 6018 Delete type=0 #193
+2025/03/17-15:50:48.185 6018 Manual compaction at level-0 from '!actors!1pTwTwidXEdN07eO' @ 72057594037927935 : 1 .. '!folders!FAVI6zwkDdL3TuBZ' @ 0 : 0; will stop at (end)
+2025/03/17-15:50:48.185 6018 Manual compaction at level-1 from '!actors!1pTwTwidXEdN07eO' @ 72057594037927935 : 1 .. '!folders!FAVI6zwkDdL3TuBZ' @ 0 : 0; will stop at (end)
